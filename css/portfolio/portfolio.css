@@ -184,9 +184,10 @@ a{
         .section .slidelist > li > a{
             display: block;
             position: relative;
+            text-align: right;
         }
         .section .slidelist > li > a >img{
-            width: 100%;
+            width: 95%;
             height: 600px;
         }
         .section .slidelist label{
